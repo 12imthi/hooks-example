@@ -1,10 +1,9 @@
-import { useState } from 'react'
 import Api from './assets/compounds/Api'
 
 
 
 function App() {
-  const [count, setCount] = useState(0)
+ 
 
   return (
     <>
